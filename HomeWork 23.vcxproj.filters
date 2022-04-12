@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ШаблонМаксутки.cpp">
+    <ClCompile Include="HomeWork23.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
